@@ -1,0 +1,151 @@
+date,product,category,region,units_sold,revenue_inr,avg_discount_pct,avg_rating,peak_time_band,stock_remaining
+2026-08-01,Nike Air Force 1 '07,Lifestyle,Banjara Hills - Hyderabad,153,1093572.09,10.6,4.4,Evening,382
+2026-08-01,Nike Dunk Low Retro,Lifestyle,Bandra West - Mumbai,119,992176.19,10.3,4.4,Late Night,690
+2026-08-01,Nike Air Max 270,Lifestyle,Koramangala - Bengaluru,95,1116010.6,9.6,4.5,Evening,666
+2026-08-01,Nike Pegasus 40,Running,Banjara Hills - Hyderabad,85,847124.03,13.3,4.3,Evening,590
+2026-08-01,Nike Metcon 9,Training,Bandra West - Mumbai,71,917134.34,7.7,4.4,Evening,602
+2026-08-01,Nike Blazer Mid '77,Lifestyle,Salt Lake - Kolkata,50,381850.25,10.1,4.6,Morning,793
+2026-08-01,Nike Revolution 6 (Kids),Kids,Koramangala - Bengaluru,42,147319.62,12.2,4.4,Late Night,492
+2026-08-01,Nike Zoom Fly 6,Running,Banjara Hills - Hyderabad,8,119372.88,12.2,4.5,Morning,142
+2026-08-01,Nike Phantom GX Elite,Football,Bandra West - Mumbai,33,460272.12,12.8,4.1,Evening,745
+2026-08-01,Nike Tech Fleece Hoodie,Apparel,Koramangala - Bengaluru,5,31617.4,9.6,4.2,Evening,43
+2026-08-02,Nike Air Force 1 '07,Lifestyle,Koramangala - Bengaluru,193,1360956.87,11.8,4.5,Afternoon,189
+2026-08-02,Nike Dunk Low Retro,Lifestyle,Banjara Hills - Hyderabad,129,1055168.4,12.0,4.5,Evening,561
+2026-08-02,Nike Air Max 270,Lifestyle,Banjara Hills - Hyderabad,93,1069553.48,11.5,4.4,Afternoon,573
+2026-08-02,Nike Pegasus 40,Running,Connaught Place - Delhi,89,892103.96,12.8,4.3,Late Night,501
+2026-08-02,Nike Metcon 9,Training,Bandra West - Mumbai,64,839252.16,6.3,4.4,Afternoon,538
+2026-08-02,Nike Blazer Mid '77,Lifestyle,Koramangala - Bengaluru,57,424656.55,12.3,4.3,Afternoon,736
+2026-08-02,Nike Revolution 6 (Kids),Kids,Connaught Place - Delhi,37,138798.29,6.1,4.2,Late Night,455
+2026-08-02,Nike Zoom Fly 6,Running,Connaught Place - Delhi,8,118421.16,12.9,4.5,Evening,134
+2026-08-02,Nike Phantom GX Elite,Football,Bandra West - Mumbai,30,413630.7,13.8,4.0,Afternoon,715
+2026-08-02,Nike Tech Fleece Hoodie,Apparel,Koramangala - Bengaluru,5,30568.15,12.6,4.3,Evening,38
+2026-08-03,Nike Air Force 1 '07,Lifestyle,Connaught Place - Delhi,188,1351250.94,10.1,4.4,Morning,261
+2026-08-03,Nike Dunk Low Retro,Lifestyle,Koramangala - Bengaluru,116,975789.1,9.5,4.1,Afternoon,445
+2026-08-03,Nike Air Max 270,Lifestyle,Banjara Hills - Hyderabad,75,851822.25,12.6,4.1,Evening,498
+2026-08-03,Nike Pegasus 40,Running,Bandra West - Mumbai,61,627569.53,10.5,4.5,Evening,440
+2026-08-03,Nike Metcon 9,Training,Koramangala - Bengaluru,55,705068.1,8.4,4.4,Evening,483
+2026-08-03,Nike Blazer Mid '77,Lifestyle,Koramangala - Bengaluru,39,303806.68,8.3,4.4,Afternoon,697
+2026-08-03,Nike Revolution 6 (Kids),Kids,Koramangala - Bengaluru,29,102763.38,11.3,4.7,Evening,426
+2026-08-03,Nike Zoom Fly 6,Running,Bandra West - Mumbai,6,94424.22,7.4,4.2,Evening,128
+2026-08-03,Nike Phantom GX Elite,Football,Banjara Hills - Hyderabad,29,408192.4,12.0,4.5,Afternoon,686
+2026-08-03,Nike Tech Fleece Hoodie,Apparel,Koramangala - Bengaluru,4,24174.72,13.6,4.3,Evening,34
+2026-08-04,Nike Air Force 1 '07,Lifestyle,Salt Lake - Kolkata,163,1146802.8,12.0,4.3,Evening,358
+2026-08-04,Nike Dunk Low Retro,Lifestyle,Bandra West - Mumbai,109,886510.62,12.5,4.4,Evening,336
+2026-08-04,Nike Air Max 270,Lifestyle,Bandra West - Mumbai,73,849976.96,10.4,4.7,Afternoon,425
+2026-08-04,Nike Pegasus 40,Running,Banjara Hills - Hyderabad,71,692907.1,15.1,4.2,Afternoon,369
+2026-08-04,Nike Metcon 9,Training,Banjara Hills - Hyderabad,51,617389.43,13.5,4.3,Morning,432
+2026-08-04,Nike Blazer Mid '77,Lifestyle,Bandra West - Mumbai,43,332044.07,9.1,4.3,Evening,654
+2026-08-04,Nike Revolution 6 (Kids),Kids,Koramangala - Bengaluru,33,114432.78,13.2,4.1,Morning,393
+2026-08-04,Nike Zoom Fly 6,Running,Bandra West - Mumbai,7,108020.22,9.2,4.5,Evening,121
+2026-08-04,Nike Phantom GX Elite,Football,Salt Lake - Kolkata,26,362638.64,12.8,4.4,Evening,660
+2026-08-04,Nike Tech Fleece Hoodie,Apparel,Bandra West - Mumbai,4,24482.5,12.5,4.7,Late Night,30
+2026-08-05,Nike Air Force 1 '07,Lifestyle,Banjara Hills - Hyderabad,133,920848.11,13.4,4.4,Morning,225
+2026-08-05,Nike Dunk Low Retro,Lifestyle,Banjara Hills - Hyderabad,99,813461.22,11.6,4.3,Evening,237
+2026-08-05,Nike Air Max 270,Lifestyle,Banjara Hills - Hyderabad,109,1226650.03,13.4,4.2,Evening,316
+2026-08-05,Nike Pegasus 40,Running,Banjara Hills - Hyderabad,62,596521.53,16.3,4.1,Evening,307
+2026-08-05,Nike Metcon 9,Training,Banjara Hills - Hyderabad,66,764798.76,17.2,4.1,Evening,366
+2026-08-05,Nike Blazer Mid '77,Lifestyle,Bandra West - Mumbai,52,403308.62,8.7,4.5,Afternoon,602
+2026-08-05,Nike Revolution 6 (Kids),Kids,Bandra West - Mumbai,37,136728.88,7.5,4.3,Afternoon,356
+2026-08-05,Nike Zoom Fly 6,Running,Bandra West - Mumbai,7,105165.06,11.6,4.4,Evening,114
+2026-08-05,Nike Phantom GX Elite,Football,Banjara Hills - Hyderabad,25,342692.88,14.3,4.3,Afternoon,635
+2026-08-05,Nike Tech Fleece Hoodie,Apparel,Koramangala - Bengaluru,4,26273.22,6.1,4.6,Morning,26
+2026-08-06,Nike Air Force 1 '07,Lifestyle,Salt Lake - Kolkata,129,897278.85,13.0,4.2,Late Night,356
+2026-08-06,Nike Dunk Low Retro,Lifestyle,Banjara Hills - Hyderabad,109,869286.99,14.2,4.3,Evening,388
+2026-08-06,Nike Air Max 270,Lifestyle,Koramangala - Bengaluru,102,1196917.47,9.7,4.4,Afternoon,214
+2026-08-06,Nike Pegasus 40,Running,Bandra West - Mumbai,60,609694.8,11.6,4.1,Evening,247
+2026-08-06,Nike Metcon 9,Training,Bandra West - Mumbai,54,671843.97,11.1,4.6,Late Night,312
+2026-08-06,Nike Blazer Mid '77,Lifestyle,Banjara Hills - Hyderabad,52,371945.08,15.8,4.4,Late Night,550
+2026-08-06,Nike Revolution 6 (Kids),Kids,Connaught Place - Delhi,42,150172.05,10.5,4.2,Evening,314
+2026-08-06,Nike Zoom Fly 6,Running,Bandra West - Mumbai,7,103856.45,12.7,4.6,Morning,107
+2026-08-06,Nike Phantom GX Elite,Football,Connaught Place - Delhi,30,417469.5,13.0,4.1,Late Night,605
+2026-08-06,Nike Tech Fleece Hoodie,Apparel,Connaught Place - Delhi,5,31092.78,11.1,4.4,Evening,21
+2026-08-07,Nike Air Force 1 '07,Lifestyle,Bandra West - Mumbai,170,1205566.05,11.3,3.9,Evening,186
+2026-08-07,Nike Dunk Low Retro,Lifestyle,Banjara Hills - Hyderabad,115,889345.6,16.8,4.0,Late Night,273
+2026-08-07,Nike Air Max 270,Lifestyle,Bandra West - Mumbai,71,848833.4,8.0,4.5,Evening,403
+2026-08-07,Nike Pegasus 40,Running,Connaught Place - Delhi,87,869056.48,13.1,4.4,Evening,420
+2026-08-07,Nike Metcon 9,Training,Bandra West - Mumbai,54,686958.57,9.1,4.2,Evening,258
+2026-08-07,Nike Blazer Mid '77,Lifestyle,Connaught Place - Delhi,40,294606.6,13.3,4.5,Evening,510
+2026-08-07,Nike Revolution 6 (Kids),Kids,Banjara Hills - Hyderabad,44,147830.98,15.9,4.5,Morning,270
+2026-08-07,Nike Zoom Fly 6,Running,Banjara Hills - Hyderabad,7,103737.48,12.8,4.6,Evening,100
+2026-08-07,Nike Phantom GX Elite,Football,Bandra West - Mumbai,32,455537.6,11.0,4.1,Evening,573
+2026-08-07,Nike Tech Fleece Hoodie,Apparel,Bandra West - Mumbai,5,31302.62,10.5,3.9,Late Night,16
+2026-08-08,Nike Air Force 1 '07,Lifestyle,Bandra West - Mumbai,225,1658562.75,7.8,4.5,Late Night,221
+2026-08-08,Nike Dunk Low Retro,Lifestyle,Bandra West - Mumbai,130,1110473.65,8.1,4.5,Late Night,403
+2026-08-08,Nike Air Max 270,Lifestyle,Connaught Place - Delhi,110,1316523.45,7.9,4.0,Late Night,293
+2026-08-08,Nike Pegasus 40,Running,Bandra West - Mumbai,72,759773.52,8.2,4.3,Evening,348
+2026-08-08,Nike Metcon 9,Training,Connaught Place - Delhi,82,1074144.24,6.4,4.6,Evening,436
+2026-08-08,Nike Blazer Mid '77,Lifestyle,Banjara Hills - Hyderabad,53,387652.34,13.9,4.2,Afternoon,457
+2026-08-08,Nike Revolution 6 (Kids),Kids,Connaught Place - Delhi,60,212374.2,11.4,4.2,Morning,210
+2026-08-08,Nike Zoom Fly 6,Running,Banjara Hills - Hyderabad,9,132306.08,13.5,4.5,Morning,91
+2026-08-08,Nike Phantom GX Elite,Football,Bandra West - Mumbai,31,443781.28,10.5,4.3,Evening,542
+2026-08-08,Nike Tech Fleece Hoodie,Apparel,Bandra West - Mumbai,7,45390.56,7.3,4.5,Evening,9
+2026-08-09,Nike Air Force 1 '07,Lifestyle,Salt Lake - Kolkata,225,1606395.38,10.7,4.7,Morning,256
+2026-08-09,Nike Dunk Low Retro,Lifestyle,Bandra West - Mumbai,146,1247147.33,8.1,4.4,Evening,257
+2026-08-09,Nike Air Max 270,Lifestyle,Koramangala - Bengaluru,103,1256837.42,6.1,4.1,Morning,190
+2026-08-09,Nike Pegasus 40,Running,Koramangala - Bengaluru,124,1319901.88,7.4,4.4,Evening,224
+2026-08-09,Nike Metcon 9,Training,Connaught Place - Delhi,73,932752.76,8.7,4.5,Evening,363
+2026-08-09,Nike Blazer Mid '77,Lifestyle,Connaught Place - Delhi,75,561307.12,11.9,4.4,Late Night,382
+2026-08-09,Nike Revolution 6 (Kids),Kids,Koramangala - Bengaluru,49,170894.11,12.7,4.2,Evening,421
+2026-08-09,Nike Zoom Fly 6,Running,Bandra West - Mumbai,10,148026.45,12.9,4.3,Evening,81
+2026-08-09,Nike Phantom GX Elite,Football,Banjara Hills - Hyderabad,35,464654.75,17.0,4.0,Morning,507
+2026-08-09,Nike Tech Fleece Hoodie,Apparel,Banjara Hills - Hyderabad,5,28854.38,17.5,4.5,Evening,4
+2026-08-10,Nike Air Force 1 '07,Lifestyle,Bandra West - Mumbai,109,732893.66,15.9,4.4,Afternoon,407
+2026-08-10,Nike Dunk Low Retro,Lifestyle,Connaught Place - Delhi,92,773046.56,9.6,4.3,Afternoon,425
+2026-08-10,Nike Air Max 270,Lifestyle,Koramangala - Bengaluru,97,1145808.14,9.1,4.6,Evening,353
+2026-08-10,Nike Pegasus 40,Running,Banjara Hills - Hyderabad,91,875539.66,16.3,4.6,Evening,393
+2026-08-10,Nike Metcon 9,Training,Bandra West - Mumbai,57,705977.78,11.5,4.3,Afternoon,306
+2026-08-10,Nike Blazer Mid '77,Lifestyle,Salt Lake - Kolkata,47,362532.62,9.2,4.3,Evening,335
+2026-08-10,Nike Revolution 6 (Kids),Kids,Koramangala - Bengaluru,36,132745.86,7.7,4.4,Evening,385
+2026-08-10,Nike Zoom Fly 6,Running,Connaught Place - Delhi,7,111470.21,6.3,4.5,Evening,74
+2026-08-10,Nike Phantom GX Elite,Football,Banjara Hills - Hyderabad,30,399235.2,16.8,4.7,Evening,477
+2026-08-10,Nike Tech Fleece Hoodie,Apparel,Banjara Hills - Hyderabad,4,23587.14,15.7,4.2,Evening,0
+2026-08-11,Nike Air Force 1 '07,Lifestyle,Banjara Hills - Hyderabad,152,1009864.44,16.9,4.4,Evening,255
+2026-08-11,Nike Dunk Low Retro,Lifestyle,Bandra West - Mumbai,126,1076305.23,8.1,4.2,Evening,299
+2026-08-11,Nike Air Max 270,Lifestyle,Bandra West - Mumbai,75,903477.38,7.3,4.2,Evening,278
+2026-08-11,Nike Pegasus 40,Running,Salt Lake - Kolkata,92,953901.08,9.8,4.4,Evening,301
+2026-08-11,Nike Metcon 9,Training,Salt Lake - Kolkata,55,666581.85,13.4,4.7,Evening,251
+2026-08-11,Nike Blazer Mid '77,Lifestyle,Koramangala - Bengaluru,47,351353.2,12.0,4.4,Evening,288
+2026-08-11,Nike Revolution 6 (Kids),Kids,Connaught Place - Delhi,38,142094.16,6.4,4.3,Evening,347
+2026-08-11,Nike Zoom Fly 6,Running,Salt Lake - Kolkata,7,102428.87,13.9,4.2,Morning,67
+2026-08-11,Nike Phantom GX Elite,Football,Koramangala - Bengaluru,26,358479.94,13.8,4.4,Evening,451
+2026-08-11,Nike Tech Fleece Hoodie,Apparel,Bandra West - Mumbai,4,25237.96,9.8,4.4,Late Night,0
+2026-08-12,Nike Air Force 1 '07,Lifestyle,Connaught Place - Delhi,187,1396390.71,6.6,4.6,Late Night,328
+2026-08-12,Nike Dunk Low Retro,Lifestyle,Banjara Hills - Hyderabad,115,878656.35,17.8,4.2,Morning,184
+2026-08-12,Nike Air Max 270,Lifestyle,Koramangala - Bengaluru,87,1015247.37,10.2,3.9,Evening,191
+2026-08-12,Nike Pegasus 40,Running,Banjara Hills - Hyderabad,76,739082.52,15.4,4.3,Afternoon,225
+2026-08-12,Nike Metcon 9,Training,Banjara Hills - Hyderabad,50,573095.25,18.1,4.4,Evening,201
+2026-08-12,Nike Blazer Mid '77,Lifestyle,Banjara Hills - Hyderabad,57,398508.94,17.7,4.3,Morning,231
+2026-08-12,Nike Revolution 6 (Kids),Kids,Koramangala - Bengaluru,32,116206.56,9.1,4.7,Morning,315
+2026-08-12,Nike Zoom Fly 6,Running,Koramangala - Bengaluru,6,93098.61,8.7,4.2,Evening,61
+2026-08-12,Nike Phantom GX Elite,Football,Bandra West - Mumbai,28,388742.48,13.2,4.2,Afternoon,423
+2026-08-12,Nike Tech Fleece Hoodie,Apparel,Banjara Hills - Hyderabad,3,17690.35,15.7,4.4,Evening,0
+2026-08-13,Nike Air Force 1 '07,Lifestyle,Connaught Place - Delhi,190,1359549.75,10.5,4.1,Afternoon,398
+2026-08-13,Nike Dunk Low Retro,Lifestyle,Bandra West - Mumbai,149,1231225.0,11.1,4.3,Evening,295
+2026-08-13,Nike Air Max 270,Lifestyle,Banjara Hills - Hyderabad,100,1047397.0,19.4,4.3,Late Night,351
+2026-08-13,Nike Pegasus 40,Running,Salt Lake - Kolkata,77,804569.54,9.1,4.6,Evening,408
+2026-08-13,Nike Metcon 9,Training,Salt Lake - Kolkata,60,748172.7,10.9,3.9,Morning,401
+2026-08-13,Nike Blazer Mid '77,Lifestyle,Bandra West - Mumbai,33,262393.56,6.4,4.3,Afternoon,198
+2026-08-13,Nike Revolution 6 (Kids),Kids,Bandra West - Mumbai,35,124863.73,10.7,4.2,Afternoon,280
+2026-08-13,Nike Zoom Fly 6,Running,Bandra West - Mumbai,7,107425.4,9.7,4.5,Late Night,54
+2026-08-13,Nike Phantom GX Elite,Football,Bandra West - Mumbai,28,409791.9,8.5,4.5,Evening,395
+2026-08-13,Nike Tech Fleece Hoodie,Apparel,Banjara Hills - Hyderabad,5,28259.8,19.2,3.9,Evening,0
+2026-08-14,Nike Air Force 1 '07,Lifestyle,Connaught Place - Delhi,206,1482273.0,10.0,4.1,Evening,192
+2026-08-14,Nike Dunk Low Retro,Lifestyle,Connaught Place - Delhi,118,1018936.49,7.1,4.4,Morning,437
+2026-08-14,Nike Air Max 270,Lifestyle,Bandra West - Mumbai,102,1256564.52,5.2,4.5,Evening,249
+2026-08-14,Nike Pegasus 40,Running,Banjara Hills - Hyderabad,72,691079.4,16.5,4.4,Late Night,336
+2026-08-14,Nike Metcon 9,Training,Connaught Place - Delhi,62,772244.1,11.0,4.4,Late Night,339
+2026-08-14,Nike Blazer Mid '77,Lifestyle,Koramangala - Bengaluru,58,420774.34,14.6,4.2,Afternoon,400
+2026-08-14,Nike Revolution 6 (Kids),Kids,Banjara Hills - Hyderabad,43,137599.79,19.9,4.5,Afternoon,237
+2026-08-14,Nike Zoom Fly 6,Running,Bandra West - Mumbai,7,107901.26,9.3,4.2,Evening,47
+2026-08-14,Nike Phantom GX Elite,Football,Connaught Place - Delhi,35,507761.28,9.3,4.6,Morning,360
+2026-08-14,Nike Tech Fleece Hoodie,Apparel,Bandra West - Mumbai,4,25685.64,8.2,4.1,Morning,0
+2026-08-15,Nike Air Force 1 '07,Lifestyle,Bandra West - Mumbai,276,1968305.04,10.8,4.4,Late Night,176
+2026-08-15,Nike Dunk Low Retro,Lifestyle,Koramangala - Bengaluru,132,1128784.8,8.0,4.1,Afternoon,305
+2026-08-15,Nike Air Max 270,Lifestyle,Connaught Place - Delhi,95,1133293.95,8.2,4.5,Late Night,414
+2026-08-15,Nike Pegasus 40,Running,Bandra West - Mumbai,95,971902.25,11.0,4.4,Evening,241
+2026-08-15,Nike Metcon 9,Training,Banjara Hills - Hyderabad,86,976095.27,18.9,4.1,Evening,253
+2026-08-15,Nike Blazer Mid '77,Lifestyle,Koramangala - Bengaluru,59,438554.38,12.5,4.3,Morning,341
+2026-08-15,Nike Revolution 6 (Kids),Kids,Banjara Hills - Hyderabad,50,161198.25,19.3,4.4,Late Night,187
+2026-08-15,Nike Zoom Fly 6,Running,Bandra West - Mumbai,11,162829.1,12.9,4.1,Evening,36
+2026-08-15,Nike Phantom GX Elite,Football,Connaught Place - Delhi,38,551283.67,9.3,4.6,Evening,322
+2026-08-15,Nike Tech Fleece Hoodie,Apparel,Banjara Hills - Hyderabad,7,40249.23,17.8,4.3,Late Night,0
